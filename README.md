@@ -1,8 +1,6 @@
 # P2C2M.GMYC
 
-\*\* **under development** \*\*
-
-An r-package for identifying model violations under the Generalized Mixed Yule Coalescent (GMYC) model
+An R-package for identifying model violations under the Generalized Mixed Yule Coalescent (GMYC) model
 
 ## Installation:
 
@@ -52,7 +50,9 @@ P2C2M_GMYC.results
 
 **Reference:**
 
- Lanna, F.M., Werneck, F.P., Gehara, M., Fonseca, E.M., Colli, G.R., Sites-Jr., J.W., Rodrigues, M.T., and Garda, A.A. 2018. The evolutionary history of Lygodactylus lizards in the South American open diagonal. Molecular Phylogenetics and Evolution, 127: 638–645.  https://doi.org/10.1016/j.ympev.2018.06.010
+ Lanna, F.M., Werneck, F.P., Gehara, M., Fonseca, E.M., Colli, G.R., Sites-Jr., J.W., Rodrigues, M.T., and Garda, A.A. 2018. The evolutionary history of Lygodactylus lizards in the South American open diagonal. Molecular Phylogenetics and Evolution, 127: 638–645.  https://doi.org/10.1016/j.ympev.2018.06.010.
+ 
+ Pons J., Barraclough, T.G., Gomez-Zurita, J., Cardoso, A., Duran, D.P., Hazel, S., Kamoun, S., Sumlin, W.D., Vogler, A.P. 2006. Sequence-based species delimitation for the DNA taxonomy of undescribed insects. Systematic Biology 55(3): 595-609.
 
 
 
